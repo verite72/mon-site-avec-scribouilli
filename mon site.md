@@ -11,4 +11,4 @@ J’utilise aussi d’autres systèmes plus par nécessité , MS Windows 10
 
 Les logiciels en italique sont sous licence     [fa=Firefox extras=fa-3x /] (https://www.libreoffice.org/download/license/) 
 [Libre-logo] (https://help.libreoffice.org/latest/fr/text/swriter/librelogo/LibreLogo.html)  est l’œuvre de Laszlo Nemeth 
-les autres sont sous licences privées (c) 
+les autres sont sous licences privées '(c)' 
