@@ -1,3 +1,7 @@
 :root {
     --couleur-primaire : #53606C;
 }
+body {
+
+  background-color: #53606C;
+}
