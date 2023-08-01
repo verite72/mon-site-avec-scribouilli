@@ -1,15 +1,11 @@
 ---
-title: Activités
+title: "Activités"
+order: 1
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
-
-## Nos activités
-
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+# Quelques mots sur mon projet
+- cycles et roues
+	- Réparer des vélos et des micro-ordinateurs et préserver ce qui existe déjà, les réparer selon leur état,
+	- proposer des Randonnées dans ma campagne du Sud-Sarthe qui est verte et arborée. (trek sur une journée et sur 2 jours)
+	- accueillir des campeurs avec leur toile de tente en camping ou gamping pourquoi pas !, j’ai la place pour ca !
+- l'informatique de proximité
+ 	- aider les utilisateurs qui découvrent internet a mieux utiliser leur ordinateur et démystifier l’informatique... 
