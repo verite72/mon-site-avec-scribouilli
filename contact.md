@@ -3,5 +3,5 @@ title: "Contact"
 order: 2
 ---
 Pour nous contacter :
-[philomaine] (mailto:philomaine@pouet.chapril.org)
+[philomaine] (mailto:philippe.verite2@orange.fr)
 ` 
