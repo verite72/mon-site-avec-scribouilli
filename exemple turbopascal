@@ -1,0 +1,17 @@
+program Factorielle;
+uses ;
+const Nmin = 0; Nmax = 14;
+var N : integer; I : integer; F : longint;
+begin
+{ Montrer la fenêtre d’entrées-sorties de Pascal }
+modeTexte;
+{ Lire la valeur de N (tel que Nmin <= N <= Nmax) au clavier }
+repeat
+write(′N = ′); readln(N);
+if ((N < Nmin) or (N > Nmax)) then
+begin
+write(′N doit etre compris entre ′); write(Nmin); write(′ et ′);
+write(Nmax); write(′! Recommencer.′); writeln;
+end;
+until ((Nmin <= N) and (N <= Nmax));
+{ Calculer F = N! }
