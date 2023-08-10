@@ -2,7 +2,6 @@
 title: "Activités"
 order: 1
 ---
-+ Quelques mots sur mon projet
-
-- aider les utilisateurs qui découvrent internet a mieux utiliser leur ordinateur 
-- démystifier l’informatique... 
+* Utilisation du clavier en France
+  - utilisation de vi
+  - changement de clavier 
